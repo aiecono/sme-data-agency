@@ -1,0 +1,8 @@
+data/*
+!data/.gitkeep
+outputs/*
+!outputs/.gitkeep
+venv/
+__pycache__/
+*.pyc
+.DS_Store
